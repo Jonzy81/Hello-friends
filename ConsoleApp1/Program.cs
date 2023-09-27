@@ -13,6 +13,7 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("tönt");
             }
+            Console.WriteLine("Hej Jonny");
         }
         
     }
