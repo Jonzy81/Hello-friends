@@ -9,11 +9,13 @@ namespace ConsoleApp1
             Console.WriteLine("Hej sean, Hej Jing, Hej Niklas");
             Console.WriteLine("Are you a friend of mine? y or n");
             string friend=Console.ReadLine();
+            Console.WriteLine("Whats your name?");
+            string name=Console.ReadLine();
             if(friend == "y")
             {
                 Console.WriteLine("tönt");
             }
-            Console.WriteLine("Hej Jonny");
+            Console.WriteLine($"Hej {name}");
         }
         
     }
