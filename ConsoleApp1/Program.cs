@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hej sean, Hej Jing");
+            Console.WriteLine("Jag är inte en tönt >:C");
         }
     }
 }
