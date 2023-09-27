@@ -15,6 +15,8 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("tönt");
             }
+            Console.WriteLine("Hej Jonny");
+            Console.WriteLine("Jag är inte en tönt >:C");
             Console.WriteLine($"Hej {name}");
             Console.WriteLine("Hello hello hello");
         }
